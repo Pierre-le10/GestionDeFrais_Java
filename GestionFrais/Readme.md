@@ -24,6 +24,6 @@ Il a voyage en train pour un coût de 125.5 Euros
 
 Créer un frais f1 correspondant à l'exemple ci-dessus.
 
-Créer un second frais, disons £2, pour Emma qui a fait 8kms à pieds pour 0€ le 12/12/2023.
+Créer un second frais, disons f2, pour Emma qui a fait 8kms à pieds pour 0€ le 12/12/2023.
 
 Afficher les descriptifs de f1 et f2 dans la console, puis les descriptifs avec les montants convertis en dollars.
